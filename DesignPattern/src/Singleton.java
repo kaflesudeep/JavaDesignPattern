@@ -1,7 +1,6 @@
 
 public class Singleton {
 
-//	jj  FFVB
+//	jj  FFVBdfd
 }
 
-BF
